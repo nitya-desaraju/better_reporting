@@ -30,3 +30,6 @@ I only have a few hours recorded on hackatime because I started this project bef
 #### AI Usage
 
 My code is about 10-20% AI. I used it to help me debug and fill in some knowledge gaps in niche areas that weren't easy to search up.
+
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)

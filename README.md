@@ -1,6 +1,6 @@
 # Volunteer Shift Spotlight
 
-A Google Chrome extension that scrapes shift data off of the volunteer calendar and exports it to a Google Sheet. A website then displays the data. It can be viewed [here](https://nitya-desaraju.github.io/spotlight/).
+A Google Chrome extension that scrapes shift data off of the volunteer calendar and exports it to a Google Sheet. A website then displays the data. It can be viewed [here](https://nitya-desaraju.github.io/better_reporting/).
 
 ## Introduction
 
